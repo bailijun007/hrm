@@ -19,5 +19,5 @@ spring:
     open-in-view: true
   jwt:
     config:
-      key:hupa
+      key:bailijun
       ttl:3600000
